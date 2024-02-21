@@ -4,10 +4,11 @@
 
 accountno = input("Please enter a 10 digit account number: ")
 
-# print (accountno[6:])       # prints the last 4 digits as passes over 6
-# print (accountno[:4])     prints the first 4 digits
+                                            # print (accountno[6:])       # prints the last 4 digits as passes over 6
+                                            # print (accountno[:4])     prints the first 4 digits
 
-accountnoX ="XXXXXX"+str(accountno[6:])
+accountnoX ="xxxxxx"+str(accountno[6:])
+
 print (accountnoX)
 
 
