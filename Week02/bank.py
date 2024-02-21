@@ -9,7 +9,7 @@ answerFloat="{:.2f}".format(answer)                         # to print 2 decimal
                                                             # Reference: https://pythonguides.com/python-print-2-decimal-places/
 
                                                             # Line 9 is an integer & must be changed to a float by using = float. 
-                                                            # (Reference: w3schools.com - Python Variables - https://www.w3schools.com/python/python_variables.asp)
+                                                            # Reference: w3schools.com - Python Variables - https://www.w3schools.com/python/python_variables.asp
 
 print (f"\nThe sum of Amount 1 and Amount 2 is €{answerFloat}.\n")
 
