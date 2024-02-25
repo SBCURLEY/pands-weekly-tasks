@@ -24,7 +24,9 @@ today = (date.strftime("%A"))
 
 # Define what days of the week are weekdays using a Tuple
 # References: https://realpython.com/python-lists-tuples/
-# Q: Why choose Tuple over List?  References: A Whirlwind Tour Of Python 2 Jake VanderPlas  Page 31
+
+# Question for myself: Why choose Tuple over List?  
+# References: A Whirlwind Tour Of Python 2 Jake VanderPlas  Page 31
 # Lists are the basic ordered and mutable data collection type in Python.
 # Tuples are in many ways similar to lists, but they are defined with parentheses rather than square brackets
 # The main distinguishing feature of tuples is that they are immutable: this means that once they are created, their size and contents cannot be changed:
