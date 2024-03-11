@@ -1,4 +1,16 @@
-<h1 align="center">Pands Weekly Tasks</h1>
+<h1 align="center">**Pands Weekly Tasks**</h1>
+
+# Project Description
+
+# Table of Contents
+
+# Git Hub Repository Links
+
+# Built With
+
+# Author
+
+# 
 
 
 
@@ -12,3 +24,4 @@ Who maintains and contributes to the project
 
 https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
+https://dev.to/rohit19060/how-to-write-stunning-github-readme-md-template-provided-5b09
