@@ -1,7 +1,6 @@
-# Pands Weekly Tasks
 <h1 align="center">Pands Weekly Tasks</h1>
-***
-## Every day is a learning day.
+
+
 
 https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
 
