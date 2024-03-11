@@ -1,26 +1,23 @@
-<h1 align="center">**Pands Weekly Tasks**</h1>
+<h1 align="center">Pands Weekly Tasks</h1>
 
-# Project Description
-
-# Table of Contents
-
-# Git Hub Repository Links
-
-# Built With
-
-# Author
-
-# 
-
-
-
-https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-
+## Project Description
 What the project does
 Why the project is useful
 How users can get started with the project
 Where users can get help with your project
-Who maintains and contributes to the project
+
+## Table of Contents
+
+## Git Hub Repository Links
+
+## Built With
+
+## Author
+
+
+
+
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
 
 https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
