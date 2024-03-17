@@ -10,14 +10,14 @@ if __name__ == "__main__":                      # When the interpreter runs a mo
                                                 # The construct if __name__ == "__main__": is a conditional statement that checks if the script is being run as the main program.
                                                 # It is, the code block under this statement is executed; otherwise, if the script is being imported as a module, the code block is not executed.
 
-# print(f"Arguments count: {len(sys.argv)}")    # test print number of arguments (0,1). Comment out after.
+# print(f"Arguments count: {len(sys.argv)}")    # test print number of arguments. Comment out after.
 
     for i, arg in enumerate(sys.argv):          # For every invocation of Python, sys.argv is automatically a list of strings representing the arguments (as separated by spaces) on the command-line.
         i=1                                     # The list of command line arguments passed to a Python script. argv[0] is the script name
                                                 # i = 1 is the file name passed in after python command. (es.py = arg0)
-#   print(f"{arg}")                             # test print list the argument, e.g. moby-dick.txt. Comment out after.
+#   print(f"{arg}")                             # test print list the argument, e.g. "moby-dick.txt" = arg1. Comment out after.
 
-import os.path                                  # to check if the file exists
+import os.path                                  # to check if the file exists. (sys.argv has no built in error handling)
 FILENAME = (f"{arg}")                           # filename is pulled from argument1 above
 if not os.path.isfile(FILENAME):                # If file does not exist, print message and end program
     print("File does not exist")            
@@ -54,6 +54,7 @@ else:                                           # if not
 # Free code camp    https://www.freecodecamp.org/news/if-name-main-python-example  (if __name__ == "__main__":)  
 # Machine Learning Tutorials    https://machinelearningtutorials.org/understanding-if-__name__-__main__-in-python-with-examples/ 
 # Geeks for Geeks   https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/   
+# Real Python       https://realpython.com/lessons/sysargv-in-depth/
 # Geeks for Geeks   https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
 # Stack Overflow    https://stackoverflow.com/questions/4117530/what-does-sys-argv1-mean-what-is-sys-argv-and-where-does-it-come-from
 # Stack Overflow    https://stackoverflow.com/questions/36026798/counting-letters-in-a-text-file-in-python
