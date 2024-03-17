@@ -4,11 +4,14 @@
 
 accountno = input("Please enter a 10 digit account number: ")
 
-                                            # print (accountno[6:])       # prints the last 4 digits as passes over 6
-                                            # print (accountno[:4])     prints the first 4 digits
+# print (accountno[6:])                     # test print the last 4 digits as passes over 6. Comments out
+# print (accountno[:4])                     # test prints the first 4 digits
 
-accountnoX ="xxxxxx"+str(accountno[6:])
+accountnoX ="xxxxxx"+str(accountno[6:])     # Substitutes 6 digits from the left with "xxxxxx"
 
-print (accountnoX)
+print (accountnoX)                          # prints the number as follows xxxxxx4568
 
 
+# References
+# Real Python       https://realpython.com/python-input-output/
+# Stack Overflow    https://stackoverflow.com/questions/63791824/how-to-print-the-last-two-digits-of-a-4-digit-input-taken-by-the-user
