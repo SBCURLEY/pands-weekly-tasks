@@ -3,36 +3,27 @@
 # Author: Sharon Curley
 
 
-# Firstly check if the file exists
-# Referencees
-# W3 Schools https://www.w3schools.com/python/python_file_open.asp
-# Real Python  https://realpython.com/read-write-files-python/
-# Stack Overflow https://stackoverflow.com/questions/36026798/counting-letters-in-a-text-file-in-python
-# Geeks for Geeks  https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
-# GitHub https://eldoyle.github.io/PythonIntro/08-ReadingandWritingTextFiles/
+import sys                                      # This module provides access to some variables used or maintained by the interpreter 
+                                                # and to functions that interact strongly with the interpreter. 
+if __name__ == "__main__":                      # When the interpreter runs a module, the __name__ variable will be set as  __main__ if the module that is being run is the main program.
+                                                # But if the code is importing the module from another module, then the __name__  variable will be set to that module’s name.
+                                                # The construct if __name__ == "__main__": is a conditional statement that checks if the script is being run as the main program.
+                                                # It is, the code block under this statement is executed; otherwise, if the script is being imported as a module, the code block is not executed.
 
+# print(f"Arguments count: {len(sys.argv)}")    # test print number of arguments (0,1). Comment out after.
 
-import sys                                      # Reference https://realpython.com/python-command-line-arguments/
-                                                # This module provides access to some variables used or maintained by the Python Command Line
-
-if __name__ == "__main__":                      # https://www.freecodecamp.org/news/if-name-main-python-example/
-                                                # https://machinelearningtutorials.org/understanding-if-__name__-__main__-in-python-with-examples/
-                                                # https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/
-                                                
-# print(f"Arguments count: {len(sys.argv)}")    # test print number of arguments (0,1)
-
-    for i, arg in enumerate(sys.argv):          # Reference vhttps://docs.python.org/3/library/sys.html   
-        i=1                                     # The list of command line arguments passed to a Python script. argv[0] is the script name 
+    for i, arg in enumerate(sys.argv):          # For every invocation of Python, sys.argv is automatically a list of strings representing the arguments (as separated by spaces) on the command-line.
+        i=1                                     # The list of command line arguments passed to a Python script. argv[0] is the script name
                                                 # i = 1 is the file name passed in after python command. (es.py = arg0)
-#print(f"{arg}")                               # test print list the argument, e.g. moby-dick.txt
+#   print(f"{arg}")                             # test print list the argument, e.g. moby-dick.txt. Comment out after.
 
-import os.path                              # to check if the file exists
-FILENAME = (f"{arg}")                       # filename is pulled from argument1 above
-if not os.path.isfile(FILENAME):            # If file does not exist, print message and end program
+import os.path                                  # to check if the file exists
+FILENAME = (f"{arg}")                           # filename is pulled from argument1 above
+if not os.path.isfile(FILENAME):                # If file does not exist, print message and end program
     print("File does not exist")            
-else:                                       # if argument1 exists (FILENAME), count letters
-    def letterFrequency (FILENAME, letter):
-        with open (FILENAME, 'r') as f:         # The file is opened using the open() function in the read mode. Teh with open will automatically close.
+else:                                           
+    def letterFrequency (FILENAME, letter):     # if argument1 exists (FILENAME), count letters
+        with open (FILENAME, 'r') as f:         # The file is opened using the open() function in the read mode. The with open will automatically close.
             text = f.read()                     # store content of the file in a variable
             count = 0                           # declare count variable as we need to count letters
 
@@ -42,9 +33,30 @@ else:                                       # if argument1 exists (FILENAME), co
         return count                            # return letter count of given letter
     
 
-#print(letterFrequency(FILENAME, "e"))          # print the number of e's. But what if there was no e.
+#   print(letterFrequency(FILENAME, "e"))       # print the number of e's. But what if there was no e. I got an error. 
+                                                # I created another text file "test.txt which does nto contain any e's
+                                                # I got an error.
+                                                # Comment out and create an if statement
 
-if (letterFrequency(FILENAME, "e"))>0:             # if there is more than one e in the file it will
-    print(letterFrequency(FILENAME, "e"))        # print the number of e's
+if (letterFrequency(FILENAME, "e"))>0:          # if there is more than one e in the file it will
+    print(letterFrequency(FILENAME, "e"))       # print the number of e's
 else:                                           # if not
     print("There is no e in this txt file")     # print that they do not exist.
+    
+    
+    
+    
+    
+
+# References
+# Python            https://docs.python.org/3/library/sys.html 
+# Real Python       https://realpython.com/python-command-line-arguments/
+# Free code camp    https://www.freecodecamp.org/news/if-name-main-python-example  (if __name__ == "__main__":)  
+# Machine Learning Tutorials    https://machinelearningtutorials.org/understanding-if-__name__-__main__-in-python-with-examples/ 
+# Geeks for Geeks   https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/   
+# Geeks for Geeks   https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
+# Stack Overflow    https://stackoverflow.com/questions/4117530/what-does-sys-argv1-mean-what-is-sys-argv-and-where-does-it-come-from
+# Stack Overflow    https://stackoverflow.com/questions/36026798/counting-letters-in-a-text-file-in-python
+# W3 Schools        https://www.w3schools.com/python/python_file_open.asp
+# Real Python       https://realpython.com/read-write-files-python/
+# GitHub            https://eldoyle.github.io/PythonIntro/08-ReadingandWritingTextFiles/
