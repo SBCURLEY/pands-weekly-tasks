@@ -12,7 +12,7 @@ number = int(input("Please enter a positive integer:"))
 
 while number != endNumber:                              # if the number is not equal to 1
     print(number)                                       # print the number
-    if (number % 2) == 0:                               # if the number can be divided by 2 and equal zero - it is an even number (from pands-mywork-lab04.01.01-isEven.py)
+    if (number % 2) == 0:                               # if the number can be divided by 2 and equal zero - it is an even number (from pands-mywork-)
         number=(number//2)                              # Proceed to divide by 2
 
     else: number=((3*number)+1)                         # if the number cannot be divided by 2 and equal zero, apply 3x=1
@@ -22,5 +22,7 @@ while number != endNumber:                              # if the number is not e
 print (endNumber)                                       # loop ends when the result is equal to endNumber (1)
 
 # References: 
-# 1. Youtube video onThe Collatz Conjecture      https://www.youtube.com/watch?v=094y1Z2wpJg&t=1       Enter 341 as Integer
-# 2. Python If...Else   https://www.w3schools.com/python/python_conditions.asp
+# Python Pool:          https://www.pythonpool.com/collatz-sequence-python/
+# Youtube video on The Collatz Conjecture      https://www.youtube.com/watch?v=094y1Z2wpJg&t=1       Enter 341 as Integer
+# Python If...Else      https://www.w3schools.com/python/python_conditions.asp
+# lab04.01.01-isEven.py Even Number
