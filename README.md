@@ -4,16 +4,14 @@
 The following will summarise all of the weekly tasks for the Programming and Scripting Module
 
 # Table of Contents
-- Topic 01 - Set Up
-- Topic 02 - Statements
-- Topic 03 - State (Variables)
-- Topic 04 - Controlling the Flow 
-- Topic 05 - Data structures
-- Topic 06 - Functions
-- Topic 07 - Files
-- Topic 08 - Plotting data
+1. Git Hub Repository Links
+2. Description of Topics
+3. Built With
+4. About Author 
+5. References
 
-# Git Hub Repository Links
+
+# 1. Git Hub Repository Links
 
 - Topic 01 - (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week01)
 - Topic 02 - (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week02)
@@ -24,7 +22,7 @@ The following will summarise all of the weekly tasks for the Programming and Scr
 - Topic 07 - (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week07)
 - Topic 08 - (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week08)
 
-# Description of Topics
+# 2. Description of Topics
 
 ## Topic 01 - Set Up
 Commit and push a file to the weekly tasks repository called ''helloworld.py
@@ -70,11 +68,17 @@ The program 'plottask.py' plots a histogram of a normal distribution of a 1000 v
 Additionally it plots the function  h(x)=x3 in the range 0 to 10 on the one set of axes. The Histogram is saved as a file. 
 
 
-## Built With
+## 3. Built With
 Python
 
 
-## Author
+## 4. About Author
 - Sharon Curley
 - [Profile](https://github.com/SBCURLEY "Sharon Curley")
 - [Email](mailto:sbrogancurley@gmail.com?subject=Hi% "Hi!")
+
+
+## 5. References
+ - https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+ - https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+ - https://dev.to/rohit19060/how-to-write-stunning-github-readme-md-template-provided-5b09
