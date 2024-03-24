@@ -33,11 +33,11 @@ The file contains a python program that displays Hello World! when it is run.
 
 ## Topic 02 - Statements
 This program is called 'bank.py'. It prompts the user and reads in two money amounts (in cent), .e.g. 55.
-It adds the two amounts. It prints out the the answer in a human readable format with a euro sign and decimal point between the euro and cent of the amount. e.g €1.20cd
+It adds the two amounts. It prints out the answer in a human readable format with a euro sign and decimal point between the euro and cent of the amount. e.g. €1.20
 
 
 ## Topic 03 - State (Variables)
-There are two programs for this topic -'accounts.py' and 'accounts2.py' The 'accounts.py' program reads in a 10 character account number and outputs the account number with only the last 4 digits showing (and the first 6 digits replaced with Xs). The second program called 'accounts2.py' modify the accounts.py program to deal with account numbers of any length. It will only print the last four  - all before will be replaced with an x.
+There are two programs for this topic -'accounts.py' and 'accounts2.py' The 'accounts.py' program reads in a 10-character account number and outputs the account number with only the last 4 digits showing (and the first 6 digits replaced with Xs). The second program called 'accounts2.py' modify the accounts.py program to deal with account numbers of any length. It will only print the last four  - all before will be replaced with an x.
 
 
 ## Topic 04 - Controlling the Flow 
@@ -47,15 +47,15 @@ When the program reaches zero, it ends.
 
 
 ## Topic 05 - Data structures
-The 'weekDay.py' program outputs whether whether or not today is a weekday. If it runs on a weekday it will output 'Yes, unfortunately today is a weekday.'
+The 'weekDay.py' program outputs whether or not today is a weekday. If it runs on a weekday it will output 'Yes, unfortunately today is a weekday.'
 If it is a weekend, it will output 'It is the weekend, yay!'.
 
 
 ## Topic 06 - Functions
 The 'squareroot.py' program takes a positive floating-point number as input and outputs an approximation of its square root.
-This program will not use the built in functions, e.g.math.sqrt(x). A deep dive into Newton theory was required.
+This program will not use the built in functions, e.g. math.sqrt(x). A deep dive into Newton theory was required.
 The Newton theory in a nutshell is let N be any number then the square root of N can be given by the formula: root = 0.5 * (X + (N / X)) where X is any guess which can be assumed to be N or 1.
-An approx is made and a better value is determined based on the approx and then you keep doing that until you get the precision you desire.
+An approx. is made and a better value is determined based on the approx and then you keep doing that until you get the precision you desire.
 
 
 ## Topic 07 - Files
