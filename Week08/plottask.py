@@ -19,12 +19,12 @@ ypoints = xpoints * xpoints * xpoints                       # function = h(x)=x3
 plt.figure(figsize=[8,6])                                   # This sets the size of the figure to be displayed.
 
 plt.xlabel("Value",                                         # Sets the label for the x-axis
-fontsize=15,                                                # font size = controls the size of the font and sets it to 15
+fontsize=13,                                                # font size = controls the size of the font and sets it to 15
 style="italic",                                             # style = controls the style of the font - italic
 family="monospace")                                         # family = controls the font family of the font - monospace                       
 
-plt.ylabel("Frequency",                                     # Sets thr label for the y-axis
-fontsize=15,                                                # font size = controls the size of the font and sets it to 15
+plt.ylabel("Frequency",                                     # Sets the label for the y-axis
+fontsize=13,                                                # font size = controls the size of the font and sets it to 15
 style="italic",                                             # style = controls the style of the font - italic
 family="monospace")                                         # family = controls the font family of the font - monospace.
 
@@ -36,7 +36,7 @@ fontsize=18,                                                # font size = contro
 loc="center",                                               # loc = The location of the title can be ‘center’, ‘left’, ‘right’.
 horizontalalignment="center",                               # You can adjust with horizontal alignment ('center', 'right', 'left').
 verticalalignment="bottom",                                 # the vertical alignment ('top', 'bottom', 'center', 'baseline')
-fontweight="bold",                                          # font weight = controls the the weight of the font - bold                      
+fontweight="bold",                                          # font weight = controls the weight of the font - bold                      
 family="monospace")                                         # family = controls the font family of the font - monospace
 
 plt.grid(axis='y', alpha=0.75)                              # Set a grid with transparency of 0.75
@@ -52,7 +52,7 @@ rwidth= 0.85,                                               # rwidth sets the re
 label="Distribution")                                       # set label for histogram       
 
 plt.plot (xpoints, ypoints, color="red", label="Function")  # plot the line and set color to red & label.
-plt.legend(loc="center left")                               # show legend, location options are are 'best', 
+plt.legend(loc="center left")                               # show legend, location options are 'best', 
                                                             # 'upper right', 'upper left', 'lower left', 'lower right', 'right', 'center left', 
                                                             # 'center right', 'lower center', 'upper center', 'center'
 plt.savefig("Normal Distribution Histogram")                # save the Figure in Folder
