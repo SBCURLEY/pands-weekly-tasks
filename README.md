@@ -1,4 +1,4 @@
-<h1 align="center">**Pands Weekly Tasks**</h1>
+<h1 align="center">Pands Weekly Tasks</h1>
 
 ## Description
 The following will summarise all of the weekly tasks for the Programming and Scripting Module
@@ -26,12 +26,12 @@ The following will summarise all of the weekly tasks for the Programming and Scr
 
 ## Description of Topics
 
-# Topic 01 - Set Up
+**Topic 01 - Set Up**
 Commit and push a file to the weekly tasks repository called ''helloworld.py
 The file contains a python program that displays Hello World! when it is run.
 
 
-# Topic 02 - Statements
+**Topic 02 - Statements**
 This program is called 'bank.py'. It prompts the user and reads in two money amounts (in cent), .e.g. 55.
 It adds the two amounts. It prints out the the answer in a human readable format with a euro sign and decimal point between the euro and cent of the amount. e.g €1.20cd
 
