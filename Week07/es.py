@@ -33,7 +33,7 @@ else:
         return count                            # return letter count of given letter
     
 
-#   print(letterFrequency(FILENAME, "e"))       # print the number of e's. But what if there was no e. I got an error. 
+# print(letterFrequency(FILENAME, "e"))       # print the number of e's. But what if there was no e. I got an error. 
                                                 # I created another text file "test.txt which does nto contain any e's
                                                 # I got an error.
                                                 # Comment out and create an if statement
