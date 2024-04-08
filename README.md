@@ -98,11 +98,13 @@ The 'weekDay.py' program outputs whether or not today is a weekday. If it runs o
 If it is a weekend, it will output 'It is the weekend, yay!'.
 
 ### Program & Sample Data
-
-- $ python weekDay.py  (run on a weekday)
+This example is run on a Thursday
+- $ python weekDay.py
 - Yes, unfortunately today is a weekday.
 
-- $ python weekDay.py  (run on the weekend)
+### Program & Sample Data
+This example is run on a Saturday
+- $ python weekDay.py  
 - It is the weekend, yay!
 
 ### References
