@@ -25,6 +25,7 @@ The following will summarise all of the weekly tasks for the Programming and Scr
 
 # 2. Description of Topics
 
+
 ## Topic 01 - Set Up
 Commit and push a file to the weekly tasks repository called ''helloworld.py
 The file contains a python program that displays Hello World! when it is run.
@@ -32,6 +33,7 @@ The file contains a python program that displays Hello World! when it is run.
 ### Program & Sample Data
 - $ python secondprog.py
 - Hello World
+
 
 
 ## Topic 02 - Statements
@@ -45,9 +47,10 @@ It adds the two amounts. It prints out the answer in a human readable format wit
 - The sum of these is €2.45
 
 ### References
-Python Guides     https://pythonguides.com/python-print-2-decimal-places/ 
-w3schools.com     https://www.w3schools.com/python/python_variables.asp          Python Variables
-Real Python       https://realpython.com/python-f-strings/
+- Python Guides     https://pythonguides.com/python-print-2-decimal-places/ 
+- w3schools.com     https://www.w3schools.com/python/python_variables.asp          Python Variables
+- Real Python       https://realpython.com/python-f-strings/
+
 
 
 ## Topic 03 - State (Variables)
@@ -71,6 +74,7 @@ There are two programs for this topic -'accounts.py' and 'accounts2.py' The 'acc
 - W3 Schools        https://www.w3schools.com/python/python_strings.asp
 
 
+
 ## Topic 04 - Controlling the Flow 
 The 'collatz.py' program asks the user to input any positive integer. It then outputs the successive values of the following calculation.
 At each step it calculates the next value by taking the current value and if it is even, divide it by two, but if it is odd, multiply it by three and add one.
@@ -86,6 +90,7 @@ When the program reaches zero, it ends.
 - Youtube video on The Collatz Conjecture      https://www.youtube.com/watch?v=094y1Z2wpJg&t=1       Enter 341 as Integer
 - Python If...Else      https://www.w3schools.com/python/python_conditions.asp
 - lab04.01.01-isEven.py Even Number
+
 
 
 ## Topic 05 - Data structures
@@ -108,6 +113,7 @@ If it is a weekend, it will output 'It is the weekend, yay!'.
 - lab05.02-months.py - this example used months in a Tuple.
 
 
+
 ## Topic 06 - Functions
 The 'squareroot.py' program takes a positive floating-point number as input and outputs an approximation of its square root.
 This program will not use the built in functions, e.g. math.sqrt(x). A deep dive into Newton theory was required.
@@ -125,6 +131,7 @@ An approx. is made and a better value is determined based on the approx and then
 - Geeks for Geeks       https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
 - Newton: Square Root of a Number using Newton's Method | Python | The Last Minute Professor      https://youtu.be/xdlIFw5EM4w
 - Ask Python             https://www.askpython.com/python/built-in-methods/format-2-decimal-places
+
 
 
 ## Topic 07 - Files
@@ -151,6 +158,7 @@ On the other hand, python .\es.py "test.txt" will count the number of e's in "te
 - GitHub            https://eldoyle.github.io/PythonIntro/08-ReadingandWritingTextFiles/
 
 
+
 ## Topic 08 - Plotting data
 
 The program 'plottask.py' plots a histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2
@@ -175,14 +183,17 @@ Additionally it plots the function  h(x)=x3 in the range 0 to 10 on the one set 
 - Pythonspot            https://pythonspot.com/matplotlib-legend/
 
 
+
 ## 3. Built With
 Python
+
 
 
 ## 4. About Author
 - Sharon Curley
 - [Profile](https://github.com/SBCURLEY "Sharon Curley")
 - [Email](mailto:sbrogancurley@gmail.com?subject=Hi% "Hi!")
+
 
 
 ## 5. References
