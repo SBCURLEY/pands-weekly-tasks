@@ -172,6 +172,7 @@ Additionally it plots the function  h(x)=x3 in the range 0 to 10 on the one set 
 - and a plot of the function  h(x)=x3 in the range 0 to 10
 - on the one set of axes.
 [Normal Distribution Histogram.png](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/Week08/Normal%20Distribution%20Histogram.png/)
+![Normal Distribution Histogram.png](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/Week08/Normal%20Distribution%20Histogram.png/)
 
 ### References
 - Numpy.org             https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
