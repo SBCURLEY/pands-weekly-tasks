@@ -190,7 +190,9 @@ Additionally it plots the function  h(x)=x3 in the range 0 to 10 on the one set 
 
 
 ## 3. Built With
-Python
+- Python 
+- Visual Studio Code
+- Cmder
 
 
 
