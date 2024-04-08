@@ -1,5 +1,5 @@
 <h1 align="center">Higher Diploma in Science in Computing (Data Analytics)</h1>
-<h1 align="center">Programming and Scripting)</h1>
+<h1 align="center">Programming and Scripting</h1>
 
 # Description
 The following will summarise all of the weekly tasks for the Programming and Scripting Module
@@ -63,13 +63,12 @@ There are two programs for this topic -'accounts.py' and 'accounts2.py' The 'acc
 - XXXXXXXXXXXXXXX7890
 
 ### References
-References
-Real Python       https://realpython.com/python-input-output/
-Stack Overflow    https://stackoverflow.com/questions/63791824/how-to-print-the-last-two-digits-of-a-4-digit-input-taken-by-the-user
-A Whirlwind Tour of Python - Formatting strings: Adding and removing space P.71
-W3 Schools        https://www.w3schools.com/python/ref_string_rjust.asp
-A Whirlwind Tour of Python - String Type P.28
-W3 Schools        https://www.w3schools.com/python/python_strings.asp
+- Real Python       https://realpython.com/python-input-output/
+- Stack Overflow    https://stackoverflow.com/questions/63791824/how-to-print-the-last-two-digits-of-a-4-digit-input-taken-by-the-user
+- A Whirlwind Tour of Python - Formatting strings: Adding and removing space P.71
+- W3 Schools        https://www.w3schools.com/python/ref_string_rjust.asp
+- A Whirlwind Tour of Python - String Type P.28
+- W3 Schools        https://www.w3schools.com/python/python_strings.asp
 
 
 ## Topic 04 - Controlling the Flow 
@@ -83,10 +82,10 @@ When the program reaches zero, it ends.
 - 10 5 16 8 4 2 1
 
 ### References
-Python Pool:          https://www.pythonpool.com/collatz-sequence-python/
-Youtube video on The Collatz Conjecture      https://www.youtube.com/watch?v=094y1Z2wpJg&t=1       Enter 341 as Integer
-Python If...Else      https://www.w3schools.com/python/python_conditions.asp
-lab04.01.01-isEven.py Even Number
+- Python Pool:          https://www.pythonpool.com/collatz-sequence-python/
+- Youtube video on The Collatz Conjecture      https://www.youtube.com/watch?v=094y1Z2wpJg&t=1       Enter 341 as Integer
+- Python If...Else      https://www.w3schools.com/python/python_conditions.asp
+- lab04.01.01-isEven.py Even Number
 
 
 ## Topic 05 - Data structures
@@ -102,11 +101,11 @@ If it is a weekend, it will output 'It is the weekend, yay!'.
 - It is the weekend, yay!
 
 ### References
-W3 Schools        https://www.w3schools.com/python/python_datetime.asp
-Geeks for Geeks   https://www.geeksforgeeks.org/python-strftime-function/
-Real Python       https://realpython.com/python-lists-tuples/
-A Whirlwind Tour Of Python 2 Jake VanderPlas  Page 31    Why choose Tuple over List?  
-lab05.02-months.py - this example used months in a Tuple.
+- W3 Schools        https://www.w3schools.com/python/python_datetime.asp
+- Geeks for Geeks   https://www.geeksforgeeks.org/python-strftime-function/
+- Real Python       https://realpython.com/python-lists-tuples/
+- A Whirlwind Tour Of Python 2 Jake VanderPlas  Page 31    Why choose Tuple over List?  
+- lab05.02-months.py - this example used months in a Tuple.
 
 
 ## Topic 06 - Functions
@@ -121,11 +120,11 @@ An approx. is made and a better value is determined based on the approx and then
 - The square root of 14.5 is approx. 3.8.
 
 ### References
-Real Python:          https://realpython.com/python-square-root-function/
-Real Python Newton:   https://realpython.com/lessons/how-square-roots-are-calculated/
-Geeks for Geeks       https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
-Newton: Square Root of a Number using Newton's Method | Python | The Last Minute Professor      https://youtu.be/xdlIFw5EM4w
-Ask Python             https://www.askpython.com/python/built-in-methods/format-2-decimal-places
+- Real Python:          https://realpython.com/python-square-root-function/
+- Real Python Newton:   https://realpython.com/lessons/how-square-roots-are-calculated/
+- Geeks for Geeks       https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
+- Newton: Square Root of a Number using Newton's Method | Python | The Last Minute Professor      https://youtu.be/xdlIFw5EM4w
+- Ask Python             https://www.askpython.com/python/built-in-methods/format-2-decimal-places
 
 
 ## Topic 07 - Files
@@ -138,18 +137,18 @@ On the other hand, python .\es.py "test.txt" will count the number of e's in "te
 - 101
 
 ### References
-Python            https://docs.python.org/3/library/sys.html 
-Real Python       https://realpython.com/python-command-line-arguments/
-Free code camp    https://www.freecodecamp.org/news/if-name-main-python-example  (if __name__ == "__main__":)  
-Machine Learning Tutorials    https://machinelearningtutorials.org/understanding-if-__name__-__main__-in-python-with-examples/ 
-Geeks for Geeks   https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/   
-Real Python       https://realpython.com/lessons/sysargv-in-depth/
-Geeks for Geeks   https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
-Stack Overflow    https://stackoverflow.com/questions/4117530/what-does-sys-argv1-mean-what-is-sys-argv-and-where-does-it-come-from
-Stack Overflow    https://stackoverflow.com/questions/36026798/counting-letters-in-a-text-file-in-python
-W3 Schools        https://www.w3schools.com/python/python_file_open.asp
-Real Python       https://realpython.com/read-write-files-python/
-GitHub            https://eldoyle.github.io/PythonIntro/08-ReadingandWritingTextFiles/
+- Python            https://docs.python.org/3/library/sys.html 
+- Real Python       https://realpython.com/python-command-line-arguments/
+- Free code camp    https://www.freecodecamp.org/news/if-name-main-python-example  (if __name__ == "__main__":)  
+- Machine Learning Tutorials    https://machinelearningtutorials.org/understanding-if-__name__-__main__-in-python-with-examples/ 
+- Geeks for Geeks   https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/   
+- Real Python       https://realpython.com/lessons/sysargv-in-depth/
+- Geeks for Geeks   https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
+- Stack Overflow    https://stackoverflow.com/questions/4117530/what-does-sys-argv1-mean-what-is-sys-argv-and-where-does-it-come-from
+- Stack Overflow    https://stackoverflow.com/questions/36026798/counting-letters-in-a-text-file-in-python
+- W3 Schools        https://www.w3schools.com/python/python_file_open.asp
+- Real Python       https://realpython.com/read-write-files-python/
+- GitHub            https://eldoyle.github.io/PythonIntro/08-ReadingandWritingTextFiles/
 
 
 ## Topic 08 - Plotting data
@@ -164,16 +163,16 @@ Additionally it plots the function  h(x)=x3 in the range 0 to 10 on the one set 
 - on the one set of axes.
 
 ### References
-Numpy.org             https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
-Real Python           https://realpython.com/python-histograms/
-Datacamp              https://www.datacamp.com/tutorial/histograms-matplotlib
-Matplotlib            https://matplotlib.org/stable/gallery/statistics/hist.html
-Statology             https://www.statology.org/matplotlib-histogram-color/
-Python Graph Gallery  https://python-graph-gallery.com/190-custom-matplotlib-title/
-Datagy                https://datagy.io/matplotlib-title/
-matplotlib.org        https://matplotlib.org/stable/users/explain/text/index.html
-Week08 - messingWithMathplotlib
-Pythonspot            https://pythonspot.com/matplotlib-legend/
+- Numpy.org             https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
+- Real Python           https://realpython.com/python-histograms/
+- Datacamp              https://www.datacamp.com/tutorial/histograms-matplotlib
+- Matplotlib            https://matplotlib.org/stable/gallery/statistics/hist.html
+- Statology             https://www.statology.org/matplotlib-histogram-color/
+- Python Graph Gallery  https://python-graph-gallery.com/190-custom-matplotlib-title/
+- Datagy                https://datagy.io/matplotlib-title/
+- matplotlib.org        https://matplotlib.org/stable/users/explain/text/index.html
+- Week08 - messingWithMathplotlib
+- Pythonspot            https://pythonspot.com/matplotlib-legend/
 
 
 ## 3. Built With
