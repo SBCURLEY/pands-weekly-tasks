@@ -1,5 +1,8 @@
 # es.py
 # Write a program that reads in a text file and outputs the number of e's it contains. 
+# moby-dick.txt has 101 e's
+# Add error handling to let the user know if there are no e's in the file.
+# test.txt has no e's.
 # Author: Sharon Curley
 
 

@@ -141,7 +141,7 @@ An approx. is made and a better value is determined based on the approx and then
 ## Topic 07 - Files
 The 'es.py' program reads in a text file and outputs the number of e's it contains. The program takes the filename from an argument on the command line.
 As an example, python .\es.py "moby-dick.txt" will count the number of e's in the text file "moby-dick.txt". 
-On the other hand, python .\es.py "test.txt" will count the number of e's in "test.txt", but there are no e's in that file. The program will return 'There is no e in this txt file'.
+On the other hand to incorporate error handling, python .\es.py "test.txt" will count the number of e's in "test.txt", but there are no e's in that file. The program will return 'There is no e in this txt file'.
 
 ### Program & Sample Data
 - $ python es.py moby-dick.txt
