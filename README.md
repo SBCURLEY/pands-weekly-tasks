@@ -25,7 +25,7 @@ The following will summarise all of the weekly tasks for the Programming and Scr
              [moby-dick.txt](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/moby-dick.txt)
              [test.txt: error handling](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/test.txt)
 - Topic 08 - [plottask.py](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/plottask.py)
-             [Normal Distribution Histogram](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/plottask.py)
+             [Normal Distribution Histogram](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/Normal%20Distribution%20Histogram.png)
 
 # 2. Description of Topics
 
