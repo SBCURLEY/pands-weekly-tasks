@@ -14,14 +14,18 @@ The following will summarise all of the weekly tasks for the Programming and Scr
 
 # 1. Git Hub Repository Links
 
-- Topic 01 - (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week01)
-- Topic 02 - (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week02)
-- Topic 03 - (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week03)
-- Topic 04 - (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week04)
-- Topic 05 - (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week05)
-- Topic 06 - (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week06)
-- Topic 07 - (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week07)
-- Topic 08 - (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week08)
+- Topic 01 - [helloworld.py](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/helloworld.py)
+- Topic 02 - [bank.py](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/bank.py)
+- Topic 03 - [accounts.py] (https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/accounts.py)
+             [accounts2.py] (https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/accounts2.py)
+- Topic 04 - [collatz.py] (https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/collatz.py)
+- Topic 05 - [weekDay.py] (https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/weekDay.py)
+- Topic 06 - [squareroot.py] (https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/squareroot.py)
+- Topic 07 - [es.py] (https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/es.py)
+             [moby-dick.txt] (https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/moby-dick.txt)
+             [test.txt] (error handling) (https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/test.txt)
+- Topic 08 - [plottask.py] (https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week08)
+             [Normal Distribution Histogram](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/plottask.py)
 
 # 2. Description of Topics
 
