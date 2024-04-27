@@ -209,7 +209,7 @@ Additionally it plots the function  h(x)=x3 in the range 0 to 10 on the one set 
 ## 4. About Author
 - Sharon Curley
 - [Profile](https://github.com/SBCURLEY "Sharon Curley")
-- [Email](mailto:G00438863@atu.ie?subject=Hi% "Hi!")
+- [Email](mailto:G00438863@atu.ie?subject=Hi "Hi!")
 
 
 
