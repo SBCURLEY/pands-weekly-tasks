@@ -22,14 +22,10 @@ The following will summarise all of the weekly tasks for the Programming and Scr
 - Topic 05 - [weekDay.py](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/weekDay.py)
 - Topic 06 - [squareroot.py](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/squareroot.py)
 - Topic 07 - [es.py](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/es.py)
-             
-             [moby-dick.txt](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/moby-dick.txt)
-             
-             [test.txt: error handling](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/test.txt)
-             
+             /n[moby-dick.txt](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/moby-dick.txt)
+             /n[test.txt: error handling](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/test.txt)
 - Topic 08 - [plottask.py](https://github.com/SBCURLEY/pands-weekly-tasks/tree/main/Week08)
-             
-             [Normal Distribution Histogram](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/plottask.py)
+             /n[Normal Distribution Histogram](https://github.com/SBCURLEY/pands-weekly-tasks/blob/main/plottask.py)
 
 # 2. Description of Topics
 
