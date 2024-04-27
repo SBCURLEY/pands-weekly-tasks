@@ -214,7 +214,7 @@ Additionally it plots the function  h(x)=x3 in the range 0 to 10 on the one set 
 ![Meissner](https://www.meissner.com/wp-content/uploads/castlebar-brief-pdf-image.jpg)
 
 - [Git Hub Profile](https://github.com/SBCURLEY "Sharon Curley")
-- 
+
 - [Email](mailto:G00438863@atu.ie?subject=Hi "Hi!")
 
 
