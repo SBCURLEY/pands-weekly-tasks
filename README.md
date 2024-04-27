@@ -8,7 +8,7 @@ The following will summarise all of the weekly tasks for the Programming and Scr
 1. Git Hub Repository Links
 2. Description of Topics
 3. Built With
-4. About Author 
+4. About Author
 5. References
 
 
@@ -27,11 +27,11 @@ The following will summarise all of the weekly tasks for the Programming and Scr
 
 
 ## Topic 01 - Set Up
-Commit and push a file to the weekly tasks repository called ''helloworld.py
+Commit and push a file to the weekly tasks repository called 'helloworld.py'.
 The file contains a python program that displays Hello World! when it is run.
 
 ### Program & Sample Data
-- $ python secondprog.py
+- $ python helloworld.py
 - Hello World
 
 
@@ -127,6 +127,8 @@ An approx. is made and a better value is determined based on the approx and then
 - Please enter a positive number: 14.5
 - The square root of 14.5 is approx. 3.8.
 
+
+
 ### References
 - Real Python:          https://realpython.com/python-square-root-function/
 - Real Python Newton:   https://realpython.com/lessons/how-square-roots-are-calculated/
@@ -144,6 +146,10 @@ On the other hand, python .\es.py "test.txt" will count the number of e's in "te
 ### Program & Sample Data
 - $ python es.py moby-dick.txt
 - 101
+
+### Program & Sample Data
+- $ python es.py test.txt
+- There is no e in this txt file
 
 ### References
 - Python            https://docs.python.org/3/library/sys.html 
@@ -164,7 +170,7 @@ On the other hand, python .\es.py "test.txt" will count the number of e's in "te
 ## Topic 08 - Plotting data
 
 The program 'plottask.py' plots a histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2
-Additionally it plots the function  h(x)=x3 in the range 0 to 10 on the one set of axes. The Histogram is saved as a file. 
+Additionally it plots the function  h(x)=x3 in the range 0 to 10 on the one set of axes. The Histogram is saved as a file.
 
 ### Program & Sample Data
 - $ python plottask.py
